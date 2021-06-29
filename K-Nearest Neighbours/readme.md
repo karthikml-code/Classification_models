@@ -4,3 +4,6 @@ Among the k neighbours, count the number of data points in each category.
 Finally assign the new data point to the category which counted most neighbours. 
 
 Euclidean distance between two points p1 and p2 = √((x_2-x_1 )^2+(y^2-y_1 )^2 )
+
+
+Simple to understand, fast and efficient. Though, we need to choose the number of neighbours k
