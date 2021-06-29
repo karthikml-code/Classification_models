@@ -5,3 +5,9 @@ y = b0 + b1x # Linear regression
 p = 1/(1 + e-y) # Sigmoid Function 
 
 ln(p/(1-p)) = b0 + b1x #Logistic regression
+
+
+Probabilistic approach, gives informations
+about statistical significance of features
+
+The Logistic Regression Assumptions is the biggest disadvantage.
