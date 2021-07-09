@@ -3,7 +3,7 @@ It is a classification technique based on Bayes' Theorem with an assumption of i
 In simple terms, a Naive Bayes classifier assumes that the presence of a particular feature in a class is unrelated to the presence of any other feature.
 
 
-P(├ A┤|B)=(P(├ B┤|A)*P(A))/P(B) 
+P(A|B)=(P(B|A)*P(A))/P(B) 
 
 eg:
 Mach1: 30 wrenches/hr
