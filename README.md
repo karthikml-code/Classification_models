@@ -8,3 +8,4 @@ In this part, you will understand and learn how to implement the following Machi
 6.	Decision Tree Classification
 7.	Random Forest Classification
 
+![image](https://user-images.githubusercontent.com/85920192/142429878-01de07d6-ba83-4941-9710-d73a06a62558.png)
